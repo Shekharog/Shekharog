@@ -1,5 +1,5 @@
 ### Hi there👋 I am Shekhar rana
-# A passionate Networking and Security from Bharat 🇮🇳 
+# A passionate Networking and Security Learner from Bharat 🇮🇳 
 
 <!--
 **Shekharog/Shekharog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
